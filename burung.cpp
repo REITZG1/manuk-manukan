@@ -1,3 +1,11 @@
+/*---------------------------------------------
+Nama Program	:burung.cpp
+Mahasiswa		:Duta syafie hanggara	(2505010067)
+				:Syamsul Fuadi	(250501066)
+				
+		PROJECT C++ GAME SYKY HOPPER
+-----------------------------------------------*/
+
 #include "burung.h"
 #include <windows.h>
 
